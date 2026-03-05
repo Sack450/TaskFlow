@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aqui_va_el_project_id_que_obtienes_de_firebase",
+  "private_key_id": "aqui_va_el_private_key_id_que_obtienes_de_firebase",
+  "private_key": "-----BEGIN PRIVATE KEY-----\ aqui va la clave privada \n-----END PRIVATE KEY-----\n",
+  "client_email": "aqui_va_el_client_email_que_obtienes_de_firebase",
+  "client_id": "aqui_va_el_client_id_que_obtienes_de_firebase",
+  "auth_uri": " aqui_va_el_auth_uri_que_obtienes_de_firebase ",
+  "token_uri": "aqui_va_el_token_uri_que_obtienes_de_firebase",
+  "auth_provider_x509_cert_url": "aqui_va_el_auth_provider_x509_cert_url_que_obtienes_de_firebase",
+  "client_x509_cert_url": "aqui_va_el_client_x509_cert_url_que_obtienes_de_firebase",
+  "universe_domain": "aqui_va_el_universe_domain_que_obtienes_de_firebase"
+}
